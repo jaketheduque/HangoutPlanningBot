@@ -1,4 +1,7 @@
-/src/main/resources/application.properties
+/src/test/resources/application.properties
 /out/
 derby.log
 /IdeasDB/
+/target/
+/src/test/
+/src/main/resources/application.properties
